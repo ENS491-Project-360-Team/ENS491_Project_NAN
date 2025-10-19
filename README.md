@@ -5,7 +5,7 @@ Project Supervisor: Öznur Taştan
 
 Group Members:
        
-        Neval Yaprak
+        Zeynep Neval Yaprak
         Zehra Nil Sarışık
         Arda Taşkoparan
 
